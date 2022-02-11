@@ -901,9 +901,9 @@ Ramdani.sendMessage(id, buttonMessages, MessageType.buttonsMessage, options)
 ❏ LIMIT : *${isPremium ? 'Unlimited' : `${gcount}`}*
 
 ━━━━━ *INFO BOT* ━━━━━
-❏ NAMA : *RAMDANI BOTZ*
+❏ NAMA : *abay BOTZ*
 ❏ API : *@6287788069091-@6287788069091*
-❏ OWNER : *RAMDANI OFFICIAL*
+❏ OWNER : *ABAY OFFICIAL*
 ❏ API : *@6287788069091*
 ❏ AKTIF : *${runtime(process.uptime())}*
 ❏ BATERAI : *${baterai}%*
